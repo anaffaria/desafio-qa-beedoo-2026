@@ -19,7 +19,10 @@ Algumas perguntas foram levantadas durante o processo de análise. Abaixo estão
 
 ## 🧠 Decisões para Criação dos Testes
 
+Para a criação dos testes, se considerou a principal funcionalidade (criação de curso) do sistema e os cenários mais criticos para o usuário. A partir da exploração do site, foram definidos cenários de testes positivos e negativos, validação de campos e possiveis falhas esperadas.
+
 ## 🔎 Raciocínio Durante a Análise
+Para a análise, primeiro foi realizado a técnica de ad hoc(uso do meu conhecimento previo em formulários) e técnica de testes exploratórios para entendimento da funcionalidade proposta. Em seguida, foram identificadas as principais ações que o usuário poderia realizar no sistema. Então elaborado cenários de teste considerando tanto os comportamentos esperados quanto possíveis falhas, e após realização dos casos de teste focando somente nos cenários de teste que passaram e não apresentaram falhas para uma documentação de comportamento correta 
 
 ## 📋 Cenários e Casos de Teste
 Os cenários e casos de teste foram documentados em uma planilha do **Google Sheets**:
