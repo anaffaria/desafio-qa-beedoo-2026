@@ -27,7 +27,10 @@ Para a análise, primeiro foi realizado a técnica de ad hoc(uso do meu conhecim
 ## 📋 Cenários e Casos de Teste
 Os cenários e casos de teste foram documentados em uma planilha do **Google Sheets**:
 🔗 [Cenários e Casos de Teste](https://docs.google.com/spreadsheets/d/1VzFrY_-H1O9tA8WVcADoD8itDHUubJuUdhd7D7PUbqA/edit?usp=sharing)
+![Cenário de Teste](https://github.com/anaffaria/desafio-qa-beedoo-2026/blob/main/cenarios.png)
+![Casos de Teste](https://github.com/anaffaria/desafio-qa-beedoo-2026/blob/main/casos.png)
 
 ## 🐞 Relatório de Bugs
 Os bugs identificados durante a execução dos testes foram documentados utilizando a ferramenta Notion: 
-🔗 [Bugs](https://nebula-drain-ec6.notion.site/31e8dcd083678098a2f7c2f9c7f91bff?v=31e8dcd08367811b96a5000cd374acc3)  
+🔗 [Bugs](https://nebula-drain-ec6.notion.site/31e8dcd083678098a2f7c2f9c7f91bff?v=31e8dcd08367811b96a5000cd374acc3) 
+![Casos de Teste](https://github.com/anaffaria/desafio-qa-beedoo-2026/blob/main/report.png)
